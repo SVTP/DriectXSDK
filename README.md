@@ -33,55 +33,32 @@
 2010年06月 开始支持vs2010,不再支持vs2005
 
 ### 发行时期对照表
-#2000-11-09
 
-DirectX 8.0 SDK 开发包    
+11/09/2000     DirectX 8.0 SDK 开发包
+04/06/2001     DirectX 8.0b SDK 开发包    
+06/06/2002     DirectX 8.1 SDK 开发包     
+08/12/2002     DirectX 8.1b SDK 开发包       
+08/12/2002     DirectX 8.1b SDK Extras Version:8.1b       
 
-#4/6/2001
-DirectX 8.0b SDK 开发包    
-#2002-06-06
-DirectX 8.1 SDK 开发包     
-#2002-08-12
-DirectX 8.1b SDK 开发包       
-#8/12/2002
-DirectX 8.1b SDK Extras Version:8.1b       
+12/19/2002     DirectX 9.0 SDK     
 
-#12/19/2002
-DirectX 9.0 SDK     
+DirectX 9.0 Complete Software Development Kit (SDK)
 
-#DirectX 9.0 Complete Software Development Kit (SDK)
+06/09/2006     DirectX SDK - (June 2006)      
+08/23/2006     DirectX SDK - (August 2006)       
+10/11/2006     DirectX SDK - (October 2006)                
 
-# 6/9/2006
-DirectX SDK - (June 2006)      
-# 8/23/2006
-DirectX SDK - (August 2006)       
-#10/11/2006
-DirectX SDK - (October 2006)                
+12/13/2006     DirectX 9.0 SDK 开发包     
+02/02/2007     DirectX SDK - (February 2007)  
+02/02/2007     DirectX SDK - Symbol Files              
+04/19/2007     DirectX SDK - (April 2007) Version:9.18.944     
+06/05/2007     DirectX SDK - Symbol Files(April 2007)Version:9.18.944    
 
-#2006-12-13
-DirectX 9.0 SDK 开发包     
-#2/2/2007
-DirectX SDK - (February 2007)  
-#2/2/2007
-DirectX SDK - Symbol Files              
-#4/19/2007
-DirectX SDK - (April 2007) Version:9.18.944     
-#6/5/2007
+2007-06-06     DirectX 9.0c 简体中文版 June 2007 (9.19.1005)        
+06/26/2007     DirectX SDK - (June 2007) Version:9.19.1007        
+06/26/2007     DirectX SDK - Symbol Files (June 2007)Version:9.19.1007 
+07/27/2007     DirectX SDK - (August 2007) Version:DX1057(9.19.1057)    
+08/24/2007     DirectX SDK - Symbol Files (August 2007)
 
-#DirectX SDK - Symbol Files(April 2007)Version:9.18.944    
-
-#2007-06-06
-DirectX 9.0c 简体中文版 June 2007 (9.19.1005)        
-#6/26/2007
-DirectX SDK - (June 2007) Version:9.19.1007        
-#6/26/2007
-DirectX SDK - Symbol Files (June 2007)Version:9.19.1007 
-#7/27/2007
-DirectX SDK - (August 2007) Version:DX1057(9.19.1057)    
-#8/24/2007
-DirectX SDK - Symbol Files (August 2007)        
-
-#10/26/2007
-DirectX Software Development Kit   Version:9.21.1148    
-#10/29/2007
-DirectX SDK - Symbol Files (November 2007) Version:9.21.1148    
+10/26/2007     DirectX Software Development Kit   Version:9.21.1148    
+10/29/2007     DirectX SDK - Symbol Files (November 2007) Version:9.21.1148    
